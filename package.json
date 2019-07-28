@@ -5,12 +5,11 @@
   "homepage": "https://ionicframework.com/",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve --port 4200",
+    "start": "ionic serve --devapp",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "run": "ionic serve --devapp"
   },
   "private": true,
   "dependencies": {
